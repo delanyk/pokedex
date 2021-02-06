@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Pokedex</string>
+    <string name="pokemonlogo">PokemonLogo</string>
+    <string name="pokesearch">PokeSearch</string>
+    <string name="pokemon_data_image">pokemon Data Image</string>
+    <string name="pokeball">pokeball</string>
+    <string name="poke_color">Color:</string>
+    <string name="unknown">\???</string>
+    <string name="speed">Speed:</string>
+    <string name="special_defense">Special-Defense:</string>
+    <string name="special_attack">Special-Attack:</string>
+    <string name="defense">Defense:</string>
+    <string name="attack">Attack:</string>
+    <string name="healh_points">Healh Points:</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="type">Type</string>
+</resources>
